@@ -3,11 +3,13 @@
 		{
 			"image": "img/aurelie.jpg",
 			"title": "Prestashop",
-			"summary": "Lancez-vous dans l'aventure E-commerce"
+			"summary": "Lancez-vous dans l'aventure E-commerce",
+			"date": "2017-12-18"
 		},
 		{
 			"image": "img/bastouche.jpg",
-			"title": "Plus responsive, tu meurs !"
+			"title": "Plus responsive, tu meurs !",
+			"date": "2017-12-18"
 		}
 	]
 }
