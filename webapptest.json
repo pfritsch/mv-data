@@ -1,1 +1,13 @@
-{}
+{
+	"conference": [
+		{
+			"image": "img/aurelie.jpg",
+			"title": "Prestashop",
+			"summary": "Lancez-vous dans l'aventure E-commerce"
+		},
+		{
+			"image": "img/bastouche.jpg",
+			"title": "Plus responsive, tu meurs !"
+		}
+	]
+}
