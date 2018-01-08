@@ -2,7 +2,7 @@
 	"conference": [
 		{
 			"image": "img/aurelie.jpg",
-			"title": "Prestashop",
+			"title": "Prestashop Lorem",
 			"summary": "Lancez-vous dans l'aventure E-commerce",
 			"date": "2017-12-18"
 		},
@@ -10,6 +10,12 @@
 			"image": "img/bastouche.jpg",
 			"title": "Plus responsive, tu meurs !",
 			"date": "2017-12-18"
+		},
+		{
+			"image": "img/dedecheri.jpg",
+			"title": "OUNEounrgun",
+			"date": "2018-01-10",
+			"summary": "wlrginworugn"
 		}
 	]
 }
