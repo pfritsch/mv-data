@@ -4,18 +4,21 @@
 			"image": "img/aurelie.jpg",
 			"title": "Prestashop Lorem",
 			"summary": "Lancez-vous dans l'aventure E-commerce",
-			"date": "2017-12-18"
+			"date": "2017-12-18",
+			"likes": 1
 		},
 		{
 			"image": "img/bastouche.jpg",
 			"title": "Plus responsive, tu meurs !",
-			"date": "2017-12-18"
+			"date": "2017-12-18",
+			"likes": 0
 		},
 		{
 			"image": "img/dedecheri.jpg",
 			"title": "FontStruct",
 			"date": "2018-01-10",
-			"summary": "wlrginworugn"
+			"summary": "wlrginworugn",
+			"likes": 0
 		}
 	]
 }
