@@ -24,6 +24,11 @@
 			"image": "https://cdn.rawgit.com/pfritsch/mv-data/68103a3079a3a89703e1c606247de1bfd99952a4/images/guillaumette.jpg",
 			"title": "Wireframe",
 			"likes": 2
+		},
+		{
+			"image": "img/corentin.jpg",
+			"title": "MVP",
+			"likes": 11
 		}
 	]
 }
