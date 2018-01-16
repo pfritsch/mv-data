@@ -4,7 +4,7 @@
 			"cat-title": "Séries",
 			"card": [
 				{
-					"image": "img/punisher.jpg",
+					"image": "https://cdn.rawgit.com/pfritsch/mv-data/376fc4ae648a6d1498103faf12482973ef9be763/images/uxlausanne.jpg",
 					"card-title": "title",
 					"card-description": "description",
 					"tag": [
