@@ -1,10 +1,25 @@
 {
 	"category": [
 		{
-			"cat-title": "Séries"
+			"cat-title": "Séries",
+			"card": [
+				{
+					"image": "img/punisher.jpg",
+					"card-title": "title",
+					"card-description": "description",
+					"tag": [
+						"Action"
+					]
+				}
+			]
 		},
 		{
-			"cat-title": "Films"
+			"cat-title": "Films",
+			"card": [
+				{
+					"tag": []
+				}
+			]
 		}
 	]
 }
